@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\REXGEX_PATTERNS\bin\Debug\net6.0\REXGEX_PATTERNS.exe
+C:\Users\HP\source\repos\REXGEX_PATTERNS\bin\Debug\net6.0\REXGEX_PATTERNS.deps.json
+C:\Users\HP\source\repos\REXGEX_PATTERNS\bin\Debug\net6.0\REXGEX_PATTERNS.runtimeconfig.json
+C:\Users\HP\source\repos\REXGEX_PATTERNS\bin\Debug\net6.0\REXGEX_PATTERNS.dll
+C:\Users\HP\source\repos\REXGEX_PATTERNS\bin\Debug\net6.0\REXGEX_PATTERNS.pdb
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.AssemblyInfo.cs
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.dll
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\refint\REXGEX_PATTERNS.dll
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.pdb
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\REXGEX_PATTERNS.genruntimeconfig.cache
+C:\Users\HP\source\repos\REXGEX_PATTERNS\obj\Debug\net6.0\ref\REXGEX_PATTERNS.dll
