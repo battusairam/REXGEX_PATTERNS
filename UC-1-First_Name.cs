@@ -8,7 +8,7 @@ namespace REXGEX_PATTERNS
             Console.WriteLine("Enter  Name");
             string name = Console.ReadLine();
             Console.WriteLine(name);
-            string namepatterns = "[A-Z]{1}[a-z]{2,}$"; 
+            string namepatterns = "^[A-Z]{1}[a-z]{2,}$"; 
             Regex regex = new Regex(namepatterns);  
             if(regex.IsMatch(name))
             {
